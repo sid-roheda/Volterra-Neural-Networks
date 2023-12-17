@@ -6,22 +6,22 @@ Patent Information: [Volterra Neural Network and Method](https://patents.google.
 # Citation
 If you use our work please cite and acknowledge:
 
-@inproceedings{roheda2020conquering,
-  title={Conquering the cnn over-parameterization dilemma: A volterra filtering approach for action recognition},
-  author={Roheda, Siddharth and Krim, Hamid},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={34},
-  number={07},
-  pages={11948--11956},
-  year={2020}
-}
+@inproceedings{roheda2020conquering,<br />
+  title={Conquering the cnn over-parameterization dilemma: A volterra filtering approach for action recognition},<br />
+  author={Roheda, Siddharth and Krim, Hamid},<br />
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},<br />
+  volume={34},<br />
+  number={07},<br />
+  pages={11948--11956},<br />
+  year={2020}<br />
+}<br />
 
-@article{roheda2019volterra,
-  title={Volterra Neural Networks (VNNs)},
-  author={Roheda, Siddharth and Krim, Hamid},
-  journal={arXiv preprint arXiv:1910.09616},
-  year={2019}
-}
+@article{roheda2019volterra,<br />
+  title={Volterra Neural Networks (VNNs)},<br />
+  author={Roheda, Siddharth and Krim, Hamid},<br />
+  journal={arXiv preprint arXiv:1910.09616},<br />
+  year={2019}<br />
+}<br />
 
 
 
