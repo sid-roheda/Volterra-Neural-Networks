@@ -1,6 +1,30 @@
 
 Code release for [Volterra Neural Networks (VNNs)](https://arxiv.org/abs/1910.09616) and [Conquering the cnn over-parameterization dilemma: A volterra filtering approach for action recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6870).  
 
+Patent Information: [Volterra Neural Network and Method](https://patents.google.com/patent/US20210279519A1/en?q=(siddharth+roheda)&oq=siddharth+roheda)
+
+# Citation
+If you use our work please cite and acknowledge:
+
+@inproceedings{roheda2020conquering,
+  title={Conquering the cnn over-parameterization dilemma: A volterra filtering approach for action recognition},
+  author={Roheda, Siddharth and Krim, Hamid},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={11948--11956},
+  year={2020}
+}
+
+@article{roheda2019volterra,
+  title={Volterra Neural Networks (VNNs)},
+  author={Roheda, Siddharth and Krim, Hamid},
+  journal={arXiv preprint arXiv:1910.09616},
+  year={2019}
+}
+
+
+
 # Training
 Configure your dataset path in mypath.py.
 
